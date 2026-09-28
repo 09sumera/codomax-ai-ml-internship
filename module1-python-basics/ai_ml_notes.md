@@ -5,8 +5,11 @@ Module: 1 – Introduction to AI & Python
  Name: Sumera Anjum
 
 1. Introduction to Artificial Intelligence
+
 Artificial Intelligence (AI) is a branch of computer science that focuses on creating machines and software systems that can perform tasks that normally require human intelligence.
+
 AI systems can perform tasks such as:
+
 Learning from data
 Recognizing patterns
 Understanding language
@@ -15,6 +18,7 @@ Making predictions
 Solving problems
 Making decisions
 Generating text, images, audio, and other content
+
 Examples of Artificial Intelligence
 Some common real-world examples of AI are:
 Chatbots and virtual assistants
@@ -29,8 +33,10 @@ Generative AI applications
 
 
 2. What is Machine Learning?
+
 Machine Learning (ML) is a subset of Artificial Intelligence.
 It allows computers to learn patterns from data and make predictions or decisions without being explicitly programmed for every individual situation.
+
 Example
 Suppose we have information about houses such as:
 Area
@@ -38,7 +44,10 @@ Number of bedrooms
 Location
 Number of bathrooms
 Previous selling price
+
 A machine learning algorithm can learn patterns from existing house data and use those patterns to predict the price of a new house.
+
+
 Basic Machine Learning Process
 Collect Data
      ↓
@@ -54,7 +63,9 @@ Evaluate Results
 
 
 3. What is Deep Learning?
+
 Deep Learning is a subset of Machine Learning that uses artificial neural networks with multiple layers to learn complex patterns from large amounts of data.
+
 Deep learning is particularly useful for tasks involving:
 Images
 Speech
@@ -70,7 +81,9 @@ Generative AI
 Autonomous driving systems
 
 4. Difference Between AI, ML and Deep Learning
+
 Artificial Intelligence, Machine Learning, and Deep Learning are related concepts.
+
 Artificial Intelligence
         ↓
 Machine Learning
@@ -471,7 +484,7 @@ Topics Covered:
 ✅ Functions
 ✅ Beginner Python programs
 GitHub Repository:
- [Paste your GitHub repository link here]
+ https://github.com/09sumera/codomax-ai-ml-internship/tree/main/module1-python-basics
 Learning Notes:
  https://docs.google.com/document/d/1wD6hGJkDxJ02lOYrf8FgWHyYBf8zxaWML1QuN7gLSxo/edit?usp=sharing
 
